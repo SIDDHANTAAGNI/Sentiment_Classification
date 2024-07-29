@@ -1,1 +1,1 @@
-Implementation of Sentiment Classifica by exploiting Sentence Transformer Loss Functions
+Implementation of Sentiment Classification by exploiting Sentence Transformer Loss Functions
